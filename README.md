@@ -5,6 +5,7 @@
     * Form method (Tovární metoda)
 9. Návrhové vzory II
     * Template method (Šablonová metoda)
+    * Adapter
 10. 
 11. 
 12. 
