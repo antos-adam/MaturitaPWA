@@ -5,7 +5,7 @@ namespace FormMethod.Model
 	{
 		public string Jmeno { get; set; }
 		public int Vek { get; set; }
-        public Osoba()
+        protected Osoba()
         {
         }
 

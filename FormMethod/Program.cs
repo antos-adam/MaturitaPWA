@@ -1,4 +1,6 @@
-﻿using FormMethod.Model;
+﻿//Tovární metoda
+
+using FormMethod.Model;
 
 Osoba os1 = Osoba.NovaInstance("Adam", 14);
 Osoba os2 = Osoba.NovaInstance("Petr", 69);

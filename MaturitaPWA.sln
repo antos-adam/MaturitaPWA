@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1700.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMethod", "FormMethod\FormMethod.csproj", "{FF246877-C91D-4AEF-977F-0571C9A9746A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonCrate", "Singleton\SingletonCrate.csproj", "{1D17F9F8-DBEB-492F-801D-062BD5D01B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Original", "Crate\Original.csproj", "{BC3E0945-4F90-45A8-877F-FF9BF0E86387}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FF246877-C91D-4AEF-977F-0571C9A9746A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF246877-C91D-4AEF-977F-0571C9A9746A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF246877-C91D-4AEF-977F-0571C9A9746A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D17F9F8-DBEB-492F-801D-062BD5D01B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D17F9F8-DBEB-492F-801D-062BD5D01B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D17F9F8-DBEB-492F-801D-062BD5D01B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D17F9F8-DBEB-492F-801D-062BD5D01B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3E0945-4F90-45A8-877F-FF9BF0E86387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3E0945-4F90-45A8-877F-FF9BF0E86387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3E0945-4F90-45A8-877F-FF9BF0E86387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3E0945-4F90-45A8-877F-FF9BF0E86387}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
