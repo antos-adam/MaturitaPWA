@@ -3,7 +3,8 @@
     * Singleton + Crate (Jedináček + přepravka)
     * Original
     * Form method (Tovární metoda)
-9. *Návrhové vzory II*
+9. Návrhové vzory II
+    * Template method (Šablonová metoda)
 10. 
 11. 
 12. 

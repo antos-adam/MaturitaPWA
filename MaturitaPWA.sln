@@ -1,15 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1700.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMethod", "FormMethod\FormMethod.csproj", "{FF246877-C91D-4AEF-977F-0571C9A9746A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormMethod", "FormMethod\FormMethod.csproj", "{FF246877-C91D-4AEF-977F-0571C9A9746A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonCrate", "Singleton\SingletonCrate.csproj", "{1D17F9F8-DBEB-492F-801D-062BD5D01B6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonCrate", "Singleton\SingletonCrate.csproj", "{1D17F9F8-DBEB-492F-801D-062BD5D01B6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Original", "Crate\Original.csproj", "{BC3E0945-4F90-45A8-877F-FF9BF0E86387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Original", "Crate\Original.csproj", "{BC3E0945-4F90-45A8-877F-FF9BF0E86387}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20Identita", "20Identita\20Identita.csproj", "{13ABEBF8-1951-401F-9F74-6620159EB639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20Identita", "20Identita\20Identita.csproj", "{13ABEBF8-1951-401F-9F74-6620159EB639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{CDAAAB9C-571E-4F8A-AFA6-E7C671912F46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{13ABEBF8-1951-401F-9F74-6620159EB639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13ABEBF8-1951-401F-9F74-6620159EB639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13ABEBF8-1951-401F-9F74-6620159EB639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAAAB9C-571E-4F8A-AFA6-E7C671912F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAAAB9C-571E-4F8A-AFA6-E7C671912F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAAAB9C-571E-4F8A-AFA6-E7C671912F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAAAB9C-571E-4F8A-AFA6-E7C671912F46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
