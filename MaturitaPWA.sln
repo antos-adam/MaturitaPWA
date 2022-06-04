@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21DB", "21DB\21DB.csproj", "{8BB8A840-376A-48BC-B43A-EC4E1AEF0D6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19Data", "19Data\19Data.csproj", "{C888B378-6174-491D-894A-BC5BD360A2C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8BB8A840-376A-48BC-B43A-EC4E1AEF0D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BB8A840-376A-48BC-B43A-EC4E1AEF0D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BB8A840-376A-48BC-B43A-EC4E1AEF0D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C888B378-6174-491D-894A-BC5BD360A2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C888B378-6174-491D-894A-BC5BD360A2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C888B378-6174-491D-894A-BC5BD360A2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C888B378-6174-491D-894A-BC5BD360A2C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
